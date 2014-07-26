@@ -5,19 +5,19 @@ This is a package that includes an ipython notebook and dependent images describ
 
 There are several dependencies to get this notebook to run properly:
 
-Shapely
+<b>Shapely</b>
 
   For more information about shapely: https://pypi.python.org/pypi/Shapely
 
   to install: pip install shapely
 
-Fiona
+<b>Fiona</b>
 
   For more information on fiona, see here: https://pypi.python.org/pypi/Fiona
 
   to install: pip install fiona
 
-GDAL
+<b>GDAL</b>
 
   "The Geospatial Data Abstraction Library": http://www.gdal.org/
 
@@ -25,11 +25,11 @@ GDAL
   to install on linux: sudo apt-get install gdal-bin
 
 
-matplotlib
+<b>matplotlib</b>
 
   to install: follow directions here: http://matplotlib.org/basemap/users/installing.html
 
 
-pysal
+<b>pysal</b>
 
   to install: follow instructions here: http://www.pysal.org/users/installation.html
